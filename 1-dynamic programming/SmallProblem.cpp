@@ -3,7 +3,8 @@
 
 using namespace std;
 
-class SmallProblem{
+class SmallProblem
+{
 
 public:
     SmallProblem(int capacity, int items);

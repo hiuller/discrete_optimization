@@ -22,3 +22,35 @@
 	<iostream.h>
 	<vector.h>
 
+1425813389 source:c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\main.cpp
+	<iostream>
+	"SmallTest.cpp"
+	"KSReader.cpp"
+
+1425728871 c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\smallproblem.cpp
+	<iostream.h>
+	<vector.h>
+
+1425728871 source:c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\smallproblem.cpp
+	<iostream.h>
+	<vector.h>
+
+1425730062 c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\smalltest.cpp
+	<iostream>
+	"SmallProblem.cpp"
+
+1425730062 source:c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\smalltest.cpp
+	<iostream>
+	"SmallProblem.cpp"
+
+1425814068 source:c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\ksreader.cpp
+	<iostream.h>
+	<string.h>
+	<fstream.h>
+	<windows.h>
+
+1425820585 c:\users\hiuller\workspace\discrete optimization\discrete_optimization\1-dynamic programming\ksreader.cpp
+	<iostream.h>
+	<string.h>
+	<fstream.h>
+
